@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VmsOTP</string>
+    <string-array name="types_array">
+        <item>Select sheet type....</item>
+        <item>A3</item>
+        <item>A4</item>
+        <item>PDF</item>
+    </string-array>
+</resources>
